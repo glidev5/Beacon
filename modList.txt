@@ -44,10 +44,10 @@ progressiveautomation v1.6.18~1.7.10~https://github.com/glidev5/mcmodjar/raw/mas
 ProjectE v1.7.10-PE1.9.5~1.7.10~https://github.com/glidev5/mcmodjar/raw/master/ProjectE-1.7.10-PE1.9.5.jar
 ProjRed|Core v4.6.1.80~1.7.10~https://github.com/glidev5/mcmodjar/raw/master/ProjectRed-1.7.10-4.6.1.80-Base.jar
 xxProjRed|Transmission v4.6.1.80~1.7.10~
-ProjRed|Exploration v1.7.10R2.8.0~1.7.10~https://github.com/glidev5/mcmodjar/raw/master/ProjectRed-1.7.10-4.6.1.80-World.jar
-ProjRed|Compatibility v4.6.1.80~1.7.10~https://github.com/glidev5/mcmodjar/raw/master/ProjectRed-1.7.10-4.6.1.80-Compat.jar~ProjectRed-1.7.10-4.6.1.80-Compat
-ProjRed|Integration v4.6.1.80~1.7.10~https://github.com/glidev5/mcmodjar/raw/master/ProjectRed-1.7.10-4.6.1.80-Integration.jar~ProjectRed-1.7.10-4.6.1.80-Integration
-ProjRed|Illumination v4.6.1.80~1.7.10~https://github.com/glidev5/mcmodjar/raw/master/ProjectRed-1.7.10-4.6.1.80-Lighting.jar~ProjectRed-1.7.10-4.6.1.80-Lighting
+ProjRed|Exploration v4.6.1.80~1.7.10~https://github.com/glidev5/mcmodjar/raw/master/ProjectRed-1.7.10-4.6.1.80-World.jar
+ProjRed|Compatibility v4.6.1.80~1.7.10~https://github.com/glidev5/mcmodjar/raw/master/ProjectRed-1.7.10-4.6.1.80-Compat.jar
+ProjRed|Integration v4.6.1.80~1.7.10~https://github.com/glidev5/mcmodjar/raw/master/ProjectRed-1.7.10-4.6.1.80-Integration.jar
+ProjRed|Illumination v4.6.1.80~1.7.10~https://github.com/glidev5/mcmodjar/raw/master/ProjectRed-1.7.10-4.6.1.80-Lighting.jar
 Quadrum v1.2.0~1.7.10~https://github.com/glidev5/mcmodjar/raw/master/Quadrum-1.7.10-1.2.0.B13-universal.jar
 reccomplex v0.9.6.3~1.7.10~https://github.com/glidev5/mcmodjar/raw/master/RecurrentComplex-0.9.6.3.jar
 RedstoneArsenal v1.7.10R1.1.1B1~1.7.10~https://github.com/glidev5/mcmodjar/raw/master/RedstoneArsenal-[1.7.10]1.1.1B1-85.jar

@@ -238,3 +238,9 @@ ProjRed|Compatibility v4.7.0pre12.95~1.7.10~https://github.com/glidev5/mcmodjar/
 ProjRed|Integration v4.7.0pre12.95~1.7.10~https://github.com/glidev5/mcmodjar/raw/master/ProjectRed-1.7.10-4.7.0pre12.95-Integration.jar
 ProjRed|Illumination v4.7.0pre12.95~1.7.10~https://github.com/glidev5/mcmodjar/raw/master/ProjectRed-1.7.10-4.7.0pre12.95-Lighting.jar
 ProjRed|Expansion v4.7.0pre12.95~1.7.10~https://github.com/glidev5/mcmodjar/raw/master/ProjectRed-1.7.10-4.7.0pre12.95-Mechanical.jar
+libsandstone v1.0.0~1.7.10~https://github.com/glidev5/mcmodjar/raw/master/LibSandstone-1.0.0.jar
+ForgeRelocation v0.0.1.4~1.7.10~https://github.com/glidev5/mcmodjar/raw/master/ForgeRelocation-1.7.10-0.0.1.4-universal.jar
+RelocationFMP v0.0.1.2~1.7.10~https://github.com/glidev5/mcmodjar/raw/master/ForgeRelocationFMP-1.7.10-0.0.1.2-universal.jar
+ForgeMultipart v1.2.0.345~1.7.10~https://github.com/glidev5/mcmodjar/raw/master/ForgeMultipart-1.7.10-1.2.0.345-universal.jar
+Baubles v1.0.1.10~1.7.10~https://github.com/glidev5/mcmodjar/raw/master/Baubles-1.7.10-1.0.1.10.jar
+MrTJPCoreMod v1.1.0.33~1.7.10~https://github.com/glidev5/mcmodjar/raw/master/MrTJPCore-1.1.0.33-universal.jar

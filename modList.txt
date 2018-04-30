@@ -218,7 +218,6 @@ powersuits v0.11.0.181~1.7.10~https://github.com/glidev5/mcmodjar/raw/master/Mod
 Mystcraft v0.10.15.00~1.7.10~https://github.com/glidev5/mcmodjar/raw/master/mystcraft-1.7.2-0.10.15.00.jar
 ObsidiPlates v3.0.0.18~1.7.10~https://github.com/glidev5/mcmodjar/raw/master/ObsidiPlates-1.7.10-universal-3.0.0.18.jar
 orecontrol v0.3.0~1.7.10~https://github.com/glidev5/mcmodjar/raw/master/orecontrol-1.7.10-0.3.0.jar
-ProjectRed|Core v4.7.0pre12.95~1.7.10~https://github.com/glidev5/mcmodjar/raw/master/ProjectRed-1.7.10-4.7.0pre12.95-Base.jar
 runicdungeons v1.1.6a~1.7.10~https://github.com/glidev5/mcmodjar/raw/master/runicdungeons-1.1.6a.jar
 thexfactor117_skyrimmc v1.2.4.10~1.7.10~https://github.com/glidev5/mcmodjar/raw/master/SkyrimMC-1.2.4.12.jar
 SolarExpansion v1.6a~1.7.10~https://github.com/glidev5/mcmodjar/raw/master/SolarExpansion-Basic-1.6a.jar
@@ -233,3 +232,11 @@ wawla v1.0.9~1.7.10~https://github.com/glidev5/mcmodjar/raw/master/Wawla-1.0.9_1
 WR-CBE|Core v1.4.1.9~1.7.10~https://github.com/glidev5/mcmodjar/raw/master/WR-CBE-1.7.10-1.4.1.9-universal.jar
 yarr_cutemobmodels v1.0.9~1.7.10~https://github.com/glidev5/mcmodjar/raw/master/yarrcutemobmodels-1.0.9-1.7.10.jar
 Minimapsync v1.7.10-b0.7.3~1.7.10~https://github.com/glidev5/mcmodjar/raw/master/minimapsync-1.7.10-b0.7.3.jar
+ProjectRed|Core v4.7.0pre12.95~1.7.10~https://github.com/glidev5/mcmodjar/raw/master/ProjectRed-1.7.10-4.7.0pre12.95-Base.jar
+ProjRed|Transmission v4.7.0pre12.95~1.7.10~https://github.com/glidev5/mcmodjar/raw/master/ProjectRed-1.7.10-4.7.0pre12.95-Mechanical.jar
+ProjRed|Transportation v4.7.0pre12.95~1.7.10~https://github.com/glidev5/mcmodjar/raw/master/ProjectRed-1.7.10-4.7.0pre12.95-Mechanical.jar
+ProjRed|Exploration v4.7.0pre12.95~1.7.10~https://github.com/glidev5/mcmodjar/raw/master/ProjectRed-1.7.10-4.7.0pre12.95-World.jar
+ProjRed|Compatibility v4.7.0pre12.95~1.7.10~https://github.com/glidev5/mcmodjar/raw/master/ProjectRed-1.7.10-4.7.0pre12.95-Compat.jar
+ProjRed|Integration v4.7.0pre12.95~1.7.10~https://github.com/glidev5/mcmodjar/raw/master/ProjectRed-1.7.10-4.7.0pre12.95-Integration.jar
+ProjRed|Illumination v4.7.0pre12.95~1.7.10~https://github.com/glidev5/mcmodjar/raw/master/ProjectRed-1.7.10-4.7.0pre12.95-Lighting.jar
+ProjRed|Expansion v4.7.0pre12.95~1.7.10~https://github.com/glidev5/mcmodjar/raw/master/ProjectRed-1.7.10-4.7.0pre12.95-Mechanical.jar

@@ -42,12 +42,11 @@ ServerTools-BACKUP v1.7.10-2.2.1.24~1.7.10~https://github.com/glidev5/mcmodjar/r
 ServerTools v1.7.10-2.2.0.79~1.7.10~https://github.com/glidev5/mcmodjar/raw/master/ServerTools-CORE-1.7.10-2.2.0.79.jar
 progressiveautomation v1.6.18~1.7.10~https://github.com/glidev5/mcmodjar/raw/master/ProgressiveAutomation-1.7.10-1.6.18.jar
 ProjectE v1.7.10-PE1.9.5~1.7.10~https://github.com/glidev5/mcmodjar/raw/master/ProjectE-1.7.10-PE1.9.5.jar
-ProjRed|Core v4.6.1.80~1.7.10~https://github.com/glidev5/mcmodjar/raw/master/ProjectRed-1.7.10-4.6.1.80-Base.jar
+ProjRed|Core v4.6.1.80~ProjectRed-1.7.10-4.6.1.80-Base~1.7.10~https://github.com/glidev5/mcmodjar/raw/master/ProjectRed-1.7.10-4.6.1.80-Base.jar
 xxProjRed|Transmission v4.6.1.80~1.7.10~
-ProjRed|Exploration v4.6.1.80~1.7.10~https://github.com/glidev5/mcmodjar/raw/master/ProjectRed-1.7.10-4.6.1.80-World.jar
-ProjRed|Compatibility v4.6.1.80~1.7.10~https://github.com/glidev5/mcmodjar/raw/master/ProjectRed-1.7.10-4.6.1.80-Compat.jar
-ProjRed|Integration v4.6.1.80~1.7.10~https://github.com/glidev5/mcmodjar/raw/master/ProjectRed-1.7.10-4.6.1.80-Integration.jar
-ProjRed|Illumination v4.6.1.80~1.7.10~https://github.com/glidev5/mcmodjar/raw/master/ProjectRed-1.7.10-4.6.1.80-Lighting.jar
+ProjRed|Compatibility v4.6.1.80~1.7.10~https://github.com/glidev5/mcmodjar/raw/master/ProjectRed-1.7.10-4.6.1.80-Compat.jar~ProjectRed-1.7.10-4.6.1.80-Compat
+ProjRed|Integration v4.6.1.80~1.7.10~https://github.com/glidev5/mcmodjar/raw/master/ProjectRed-1.7.10-4.6.1.80-Integration.jar~ProjectRed-1.7.10-4.6.1.80-Integration
+ProjRed|Illumination v4.6.1.80~1.7.10~https://github.com/glidev5/mcmodjar/raw/master/ProjectRed-1.7.10-4.6.1.80-Lighting.jar~ProjectRed-1.7.10-4.6.1.80-Lighting
 Quadrum v1.2.0~1.7.10~https://github.com/glidev5/mcmodjar/raw/master/Quadrum-1.7.10-1.2.0.B13-universal.jar
 reccomplex v0.9.6.3~1.7.10~https://github.com/glidev5/mcmodjar/raw/master/RecurrentComplex-0.9.6.3.jar
 RedstoneArsenal v1.7.10R1.1.1B1~1.7.10~https://github.com/glidev5/mcmodjar/raw/master/RedstoneArsenal-[1.7.10]1.1.1B1-85.jar
@@ -80,7 +79,6 @@ Morph v0.9.2~1.7.10~https://github.com/glidev5/mcmodjar/raw/master/Morph-Beta-0.
 mobtalker2 v0.5.1-alpha~1.7.10~https://github.com/glidev5/mcmodjar/raw/master/MobTalker2-1.7.10-0.5.1-alpha.jar
 MobProperties v1.0.2~1.7.10~https://github.com/glidev5/mcmodjar/raw/master/MobProperties-1.7.10-1.0.2.jar
 minegicka3 v1.0.0~1.7.10~https://github.com/glidev5/mcmodjar/raw/master/minegicka3-1.7.10-1.0.0.jar
-MineFactoryReloaded v1.7.10R2.8.0~1.7.10~https://github.com/glidev5/mcmodjar/raw/master/MineFactoryReloaded-[1.7.10]2.8.0-104.jar
 xxMineFactoryReloaded|CompatVanilla v1.7.10R2.8.0~1.7.10~https://github.com/glidev5/mcmodjar/raw/master/
 xxMineFactoryReloaded|CompatTwilightForest v1.7.10R2.8.0~1.7.10~https://github.com/glidev5/mcmodjar/raw/master/
 xxMineFactoryReloaded|CompatTConstruct v1.7.10R2.8.0~1.7.10~https://github.com/glidev5/mcmodjar/raw/master/
@@ -99,6 +97,7 @@ xxMineFactoryReloaded|CompatBuildCraft v1.7.10R2.8.0~1.7.10~https://github.com/g
 xxMineFactoryReloaded|CompatBackTools v1.7.10R2.8.0~1.7.10~https://github.com/glidev5/mcmodjar/raw/master/
 xxMineFactoryReloaded|CompatAtum v1.7.10R2.8.0~1.7.10~https://github.com/glidev5/mcmodjar/raw/master/
 xxMineFactoryReloaded|CompatAppliedEnergistics v1.7.10R2.8.0~1.7.10~https://github.com/glidev5/mcmodjar/raw/master/
+ProjRed|Exploration v1.7.10R2.8.0~1.7.10~https://github.com/glidev5/mcmodjar/raw/master/ProjectRed-1.7.10-4.6.1.80-World.jar
 millenaire v6.0.0~1.7.10~https://github.com/glidev5/mcmodjar/raw/master/millenaire-6.0.0.jar
 MCA v1.7.10-5.1.1.2~1.7.10~https://github.com/glidev5/mcmodjar/raw/master/MCA-1.7.10-5.1.1.2-universal.jar
 RadixCore v2.1.1~1.7.10~https://github.com/glidev5/mcmodjar/raw/master/RadixCore-1.7.10-2.1.1-universal.jar
@@ -139,22 +138,24 @@ MagicBees v1.7.10-2.3.1~1.7.10~https://github.com/glidev5/mcmodjar/raw/master/ma
 xxThaumicTinkerer vunspecified~1.7.10~https://github.com/glidev5/mcmodjar/raw/master/ThaumicTinkerer-2.5-1.7.10-502.jar
 TConstruct v1.7.10-1.8.5.build957~1.7.10~https://github.com/glidev5/mcmodjar/raw/master/TConstruct-1.7.10-1.8.5.jar
 Waila v1.5.10~1.7.10~https://github.com/glidev5/mcmodjar/raw/master/Waila-1.5.10_1.7.10.jar
+MineFactoryReloaded v1.7.10R2.8.0~1.7.10~https://github.com/glidev5/mcmodjar/raw/master/MineFactoryReloaded-[1.7.10]2.8.0-104.jar
 MineTweaker3 v3.0.0~1.7.10~https://github.com/glidev5/mcmodjar/raw/master/MineTweaker3-1.7.10-3.0.10B.jar
 chisel v2.3.10.37~1.7.10~https://github.com/glidev5/mcmodjar/raw/master/Chisel2-2.3.10.37.jar
 TwilightForest v2.3.7~1.7.10~https://github.com/glidev5/mcmodjar/raw/master/twilightforest-1.7.10-2.3.7.jar
 Railcraft v9.8.0.0~1.7.10~https://github.com/glidev5/mcmodjar/raw/master/Railcraft_1.7.10-9.8.0.0.jar
 cgo v3.2.0~1.7.10~https://github.com/glidev5/mcmodjar/raw/master/CGOrigin-1.7.10-3.2.0.jar
 CarpentersBlocks v3.3.6~1.7.10~https://github.com/glidev5/mcmodjar/raw/master/Carpenter%27s%20Blocks%20v3.3.6%20-%20MC%201.7.10.jar
-BuildCraft|Compat v7.0.8~1.7.10~https://github.com/glidev5/mcmodjar/raw/master/buildcraft-compat-7.0.8.jar
-BuildCraft|Factory v7.1.14~1.7.10~https://github.com/glidev5/mcmodjar/raw/master/buildcraft-7.1.14-factory.jar
-BuildCraft|Robotics v7.1.14~1.7.10~https://github.com/glidev5/mcmodjar/raw/master/buildcraft-7.1.14-robotics.jar
-BuildCraft|Silicon v7.1.14~1.7.10~https://github.com/glidev5/mcmodjar/raw/master/buildcraft-7.1.14-silicon.jar
-BuildCraft|Energy v7.1.14~1.7.10~https://github.com/glidev5/mcmodjar/raw/master/buildcraft-7.1.14-energy.jar
-BuildCraft|Transport v7.1.14~1.7.10~https://github.com/glidev5/mcmodjar/raw/master/buildcraft-7.1.14-transport.jar
+BuildCraft_Compat v7.0.8~1.7.10~https://github.com/glidev5/mcmodjar/raw/master/buildcraft-compat-7.0.8.jar
+BuildCraft|Compat v7.0.8~BuildCraft_Compat v7.0.8
+BuildCraft_Factory v7.1.14~1.7.10~https://github.com/glidev5/mcmodjar/raw/master/buildcraft-7.1.14-factory.jar
+BuildCraft_Robotics v7.1.14~1.7.10~https://github.com/glidev5/mcmodjar/raw/master/buildcraft-7.1.14-robotics.jar
+BuildCraft_Silicon v7.1.14~1.7.10~https://github.com/glidev5/mcmodjar/raw/master/buildcraft-7.1.14-silicon.jar
+BuildCraft_Energy v7.1.14~1.7.10~https://github.com/glidev5/mcmodjar/raw/master/buildcraft-7.1.14-energy.jar
+BuildCraft_Transport v7.1.14~1.7.10~https://github.com/glidev5/mcmodjar/raw/master/buildcraft-7.1.14-transport.jar
 BuildCraft|Builders v7.1.14~1.7.10~https://github.com/glidev5/mcmodjar/raw/master/buildcraft-7.1.14-builders.jar
 brewingapi v1.2.0~1.7.10~https://github.com/glidev5/mcmodjar/raw/master/Brewing-API-1.7.2-1.2.0.jar
 Botania vr1.8-248~1.7.10~https://github.com/glidev5/mcmodjar/raw/master/Botania r1.8-248.jar
-xxAWWayofTime v1.3.3~1.7.10~https://github.com/glidev5/mcmodjar/raw/master/TooMuchTime-1.7.10-2.4.0.B3-universal.jar
+AWWayofTime v1.3.3~1.7.10~https://github.com/glidev5/mcmodjar/raw/master/TooMuchTime-1.7.10-2.4.0.B3-universal.jar
 BlockProperties v0.1.5~1.7.10~https://github.com/glidev5/mcmodjar/raw/master/BlockProperties-1.7.10-0.1.5.jar
 BigReactors v0.4.3A~1.7.10~https://github.com/glidev5/mcmodjar/raw/master/BigReactors-0.4.3A.jar
 ThermalExpansion v1.7.10R4.0.2B2~1.7.10~https://github.com/glidev5/mcmodjar/raw/master/ThermalExpansion-[1.7.10]4.0.2B2-210.jar
@@ -195,3 +196,6 @@ ThaumicTinkerer-preloader v0.1~1.7.10~https://github.com/glidev5/mcmodjar/raw/ma
 ivtoolkit vIvToolkit~1.7.10~https://github.com/glidev5/mcmodjar/raw/master/IvToolkit-1.2.jar
 Aroma1997Core v1.0.2.16~1.7.10~https://github.com/glidev5/mcmodjar/raw/master/Aroma1997Core-1.7.10-1.0.2.16.jar
 thexfactor117_skyrimmmc v1.2.4.10~1.7.10~https://github.com/glidev5/mcmodjar/raw/master/SkyrimMC-1.2.4.12.jar
+CodeChickenCore v1.0.7.47~1.7.10~https://media.forgecdn.net/files/2262/89/CodeChickenCore-1.7.10-1.0.7.47-universal.jar
+NotEnoughItems v1.0.5.118~1.7.10~https://media.forgecdn.net/files/2302/312/NotEnoughItems-1.7.10-1.0.5.120-universal.jar
+BuildCraft|Core v7.1.23~1.7.10~https://media.forgecdn.net/files/2502/739/buildcraft-7.1.23.jar

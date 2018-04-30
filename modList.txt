@@ -232,9 +232,7 @@ wawla v1.0.9~1.7.10~https://github.com/glidev5/mcmodjar/raw/master/Wawla-1.0.9_1
 WR-CBE|Core v1.4.1.9~1.7.10~https://github.com/glidev5/mcmodjar/raw/master/WR-CBE-1.7.10-1.4.1.9-universal.jar
 yarr_cutemobmodels v1.0.9~1.7.10~https://github.com/glidev5/mcmodjar/raw/master/yarrcutemobmodels-1.0.9-1.7.10.jar
 Minimapsync v1.7.10-b0.7.3~1.7.10~https://github.com/glidev5/mcmodjar/raw/master/minimapsync-1.7.10-b0.7.3.jar
-ProjectRed|Core v4.7.0pre12.95~1.7.10~https://github.com/glidev5/mcmodjar/raw/master/ProjectRed-1.7.10-4.7.0pre12.95-Base.jar
-ProjRed|Transmission v4.7.0pre12.95~1.7.10~https://github.com/glidev5/mcmodjar/raw/master/ProjectRed-1.7.10-4.7.0pre12.95-Mechanical.jar
-ProjRed|Transportation v4.7.0pre12.95~1.7.10~https://github.com/glidev5/mcmodjar/raw/master/ProjectRed-1.7.10-4.7.0pre12.95-Mechanical.jar
+ProjRed|Core v4.7.0pre12.95~1.7.10~https://github.com/glidev5/mcmodjar/raw/master/ProjectRed-1.7.10-4.7.0pre12.95-Base.jar
 ProjRed|Exploration v4.7.0pre12.95~1.7.10~https://github.com/glidev5/mcmodjar/raw/master/ProjectRed-1.7.10-4.7.0pre12.95-World.jar
 ProjRed|Compatibility v4.7.0pre12.95~1.7.10~https://github.com/glidev5/mcmodjar/raw/master/ProjectRed-1.7.10-4.7.0pre12.95-Compat.jar
 ProjRed|Integration v4.7.0pre12.95~1.7.10~https://github.com/glidev5/mcmodjar/raw/master/ProjectRed-1.7.10-4.7.0pre12.95-Integration.jar
